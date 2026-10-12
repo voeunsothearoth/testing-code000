@@ -1,0 +1,2 @@
+const name = "Sothearoth";
+console.log("Hello, My name is" + name + "!");
