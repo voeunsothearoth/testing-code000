@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         if (currentHour < 12) {
             greetingText = "Good morning! Ready to code?";
-        } else if (currentHour < 18) {
+        } else if (currentHour < 10) {
             greetingText = "Good afternoon! Hope your project is going well.";
         } else {
             greetingText = "Good evening! Burning the midnight oil?";
